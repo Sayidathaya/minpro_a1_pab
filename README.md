@@ -1,7 +1,3 @@
-Berikut isi **README.md** untuk aplikasi kamu. Tinggal copy–paste saja 🚀
-
----
-
 # 🎬 CineScope – Film Review App
 
 CineScope adalah aplikasi mobile berbasis Flutter yang memungkinkan pengguna untuk menambahkan, mengedit, dan menghapus review film dengan tampilan modern bertema dark (bioskop vibes 🎥). Aplikasi ini dirancang dengan struktur folder yang profesional dan scalable sehingga mudah dikembangkan ke level lebih lanjut seperti integrasi database, state management, maupun fitur premium lainnya.
